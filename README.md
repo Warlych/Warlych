@@ -27,3 +27,6 @@
 <a href="https://github.com/Warlych" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Warlych&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/Warlych"><img src="https://github-readme-stats.vercel.app/api?username=Warlych&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Warlych's GitHub stats" /></a>
+
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Warlych?theme=dark&font=Convergence&ext=activity)
